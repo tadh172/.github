@@ -1,1 +1,2 @@
-Refer to the [IETF Infrastructure and Services Vulnerability Disclosure](https://www.ietf.org/about/administration/policies-procedures/vulnerability-disclosure/) on how to disclose vulnerabilities in a secure manner.
+https://blog.google/inside-google/message-ceo/alphabet-earnings-q4-2024/#research
+look
